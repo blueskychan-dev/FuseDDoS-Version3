@@ -1,4 +1,4 @@
-# FUseDDoS-Version-3
+# FuseDDoS-Version-3
 FuseDDoS Version 3 with C#!
 # What you need?
 * NET FRAMEWORK 4.6.1 (trying to ask in issues for downgrade net)
