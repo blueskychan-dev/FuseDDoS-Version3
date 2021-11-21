@@ -3,7 +3,7 @@ FuseDDoS Version 3 with C#!
 # What you need?
 * NET FRAMEWORK 4.6.1 (trying to ask in issues for downgrade net)
 # Overview
-![Over1](https://media.discordapp.net/attachments/879939876181647380/911841971549634570/unknown.png)
+![Over1](https://media.discordapp.net/attachments/879939876181647380/911925550115852328/unknown.png)
 # About with Version 2 and 1
 FuseDDoS Version 2 and 1 Created for Edu and testing server
 but Version 2 and 1 is not good sending and LOW rate to sending!
