@@ -2,7 +2,9 @@
 DDOS ATTACK PANEL FOR WINDOWS AND WINE (FuseDDOS Version3)
 # What you need?
 * NET FRAMEWORK 4.6.1 (trying to ask in issues for downgrade net)
-# About with Ver 2 and 1
+# Overview
+![Over1](https://media.discordapp.net/attachments/879939876181647380/911841971549634570/unknown.png)
+# About with Version 2 and 1
 FuseDDoS Version 2 and 1 Created for Edu and testing server
 but Version 2 and 1 is not good sending and LOW rate to sending!
 # Coding
