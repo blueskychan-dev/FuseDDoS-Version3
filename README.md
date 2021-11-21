@@ -13,7 +13,7 @@ So version 2 and 1 is using batch to creating,
 # Open Source
 FuseDDoS Version 3 are open source and free edit~
 # Terms of Services
-So this will very illgeal to attack other server if you not are owner or have pem,
+So this will very illgeal to attack other server if you not are owner or have any permission,
 # How to working?
 FuseDDoS version 3 will send CHINA lang to overheat any server!
 ![HOW THAT WORK?](https://media.discordapp.net/attachments/879939876181647380/911838523114528858/howwork.png?width=867&height=434)
