@@ -17,6 +17,8 @@ So this will very illgeal to attack other server if you not are owner or have pe
 # How to working?
 FuseDDoS version 3 will send CHINA lang to overheat any server!
 ![HOW THAT WORK?](https://media.discordapp.net/attachments/879939876181647380/911838523114528858/howwork.png?width=867&height=434)
+# Patch and News!
+* 20/11/2021 - FuseDDoS Version 3 (Beta v0.7) *Read More in Release.*
 # Methods
 Now have just 2
 * Big Spammer
@@ -27,7 +29,7 @@ Plz wait to newer
 * A: We using DNS that are support with TCP and UDP!
 * Ask more in Issuses!
 # History about Destory Server of Version 3.
-* MCTHAM on 12:19 PM (Time in Thailand) play.mctham.xyz having networking issuses after get attacked (Methods big spammer) (Reason: Server is cannot read bigger china)
+* MCTHAM on 12:19 PM (Time in Thailand) play.mctham.xyz having networking issuses after get attacked (Methods big spammer) (Reason: Server is cannot read bigger chinese language.)
 ![mctham](https://media.discordapp.net/attachments/827390907502034995/911856265989337098/unknown.png?width=772&height=434)
-#Someone tell me next time i will get something ... JAIL?
+
 
