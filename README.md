@@ -27,6 +27,7 @@ Plz wait to newer
 * A: We using DNS that are support with TCP and UDP!
 * Ask more in Issuses!
 # History about Destory Server of Version 3.
-* #MCTHAM on 12:19 PM (Time in Thailand) play.mctham.xyz having networking issuses after get attacked (Methods big spammer) (Reason: Overread China) So admin is dm to me.
+* MCTHAM on 12:19 PM (Time in Thailand) play.mctham.xyz having networking issuses after get attacked (Methods big spammer) (Reason: Server is cannot read bigger china)
 ![mctham](https://media.discordapp.net/attachments/827390907502034995/911856265989337098/unknown.png?width=772&height=434)
+#Someone tell me next time i will get something ... JAIL?
 
