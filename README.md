@@ -23,7 +23,10 @@ FuseDDoS version 3 will send CHINA lang to overheat any server!
 Now have just 2
 * Big Spammer
 * Big Flooded
-Plz wait to newer
+# What in new Methods in soon?
+* HTTP Flooding
+* HTTP Proxy Attacking.
+* Bigspammer Proxy!
 # Q&A
 * why not having to select proctool?
 * A: We using DNS that are support with TCP and UDP!
