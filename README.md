@@ -1,9 +1,9 @@
 # FuseDDoS-Version-3
-FuseDDoS Version 3 with C#!
+FuseDDoS Version 3 with C#! and Best of Testing Flood Layer 4!
 # What you need?
 * NET FRAMEWORK 4.6.1 (trying to ask in issues for downgrade net)
 # Overview
-![Over1](https://media.discordapp.net/attachments/879939876181647380/911925550115852328/unknown.png)
+![Over1](https://media.discordapp.net/attachments/879939876181647380/912258526146097172/unknown.png)
 # About with Version 2 and 1
 FuseDDoS Version 2 and 1 Created for Edu and testing server
 but Version 2 and 1 is not good sending and LOW rate to sending!
@@ -22,7 +22,7 @@ FuseDDoS version 3 will send CHINA lang to overheat any server!
 # Methods
 Now have just 2
 * Big Spammer
-* Big Flooded
+* Flooded
 # What in new Methods in soon?
 * HTTP Flooding
 * HTTP Proxy Attacking.
