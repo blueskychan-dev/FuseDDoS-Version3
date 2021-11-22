@@ -38,6 +38,7 @@ Now have just 2
 * ISP maybe block many packets from you pc
 * Really in task manager maybe show 500 mbps - 1Gbps but server will get 100-300 MBPS From limited Package of you internet ISP!
 * If ISP you is good maybe you Wifi are problem! 2.4GHz is bad for it (Recommends to using 5Ghz or lan!)
+* If you are pro of C# you can edit for free! from Fork github or Download! (If editing is working please ask in issues bar to update with new version!)
 * Q: how i did ask a issues
 * A: click a issues bar and report we!
 # History about Destory Server of Version 3.
