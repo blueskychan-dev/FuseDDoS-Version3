@@ -36,7 +36,7 @@ Now have just 2
 * Making to sure you have a good pc or server spec.
 * Some version maybe having problem try downgrade a version! if work please contect in issues bar to fix it!
 * ISP maybe block many packets from you pc
-* Really in task manager maybe show 500 mbps - 1Gbps but server will get 100-300 MBPS From limited Package you internet ISP!
+* Really in task manager maybe show 500 mbps - 1Gbps but server will get 100-300 MBPS From limited Package of you internet ISP!
 * If ISP you is good maybe you Wifi are problem! 2.4GHz is bad for it (Recommends to using 5Ghz or lan!)
 * Q: how i did ask a issues
 * A: click a issues bar and report we!
