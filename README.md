@@ -39,6 +39,15 @@ Now have just 2
 * Really in task manager maybe show 500 mbps - 1Gbps but server will get 100-300 MBPS From limited Package of you internet ISP!
 * If ISP you is good maybe you Wifi are problem! 2.4GHz is bad for it (Recommends to using 5Ghz or lan!)
 * If you are pro of C# you can edit for free! from Fork github or Download! (If editing is working please ask in issues bar to update with new version!)
+* Q: (Law asking time!) What happends if i ddosing a server without allowed?
+* A: This we you got!
+* If you attacked on big server there no way to get attacked!
+* If you attacked and making owner or he or her lost money and customer owner/he/her will asking in law and asking police for it.
+* After you get email/SMS/Call/Paper about this you need asking owner/he/her in online or police station.
+* If lucky. owner/he/her is okay to agree it you maybe not get bad history on profile. or maybe get!
+* If unlucky owner/he/her will using law to you are prsion! (Computer law.) (1 month to 10 year) (Fine 1000$ - 100000$ up to lost in bussines)
+* If lucky after you quit from jail you maybe agreed to playing computer!
+* But if unlucky you maybe cannot using internet or computer (can but very limited) if you need to using you need wait 1 - 5 year!
 * Q: how i did ask a issues
 * A: click a issues bar and report we!
 # History about Destory Server of Version 3.
