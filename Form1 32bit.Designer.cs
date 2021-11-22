@@ -47,9 +47,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(159, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(110, 13);
+            this.label1.Size = new System.Drawing.Size(107, 13);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Welcome FuseDDoS!";
+            this.label1.Text = "Welcome FuseDDoS";
             // 
             // label2
             // 
@@ -92,7 +92,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(144, 82);
+            this.label6.Location = new System.Drawing.Point(131, 82);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(29, 13);
             this.label6.TabIndex = 15;
@@ -108,7 +108,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(162, 183);
+            this.button2.Location = new System.Drawing.Point(157, 167);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(109, 25);
             this.button2.TabIndex = 17;
@@ -123,7 +123,7 @@
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(53, 13);
             this.label7.TabIndex = 18;
-            this.label7.Text = "Beta v1.0";
+            this.label7.Text = "Beta v0.7";
             this.label7.Click += new System.EventHandler(this.label7_Click_1);
             // 
             // button3
@@ -152,7 +152,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
-            this.Text = "FuseDDoS Version 3 (Beta v1.0)";
+            this.Text = "FuseDDoS Version 3 (Beta v0.7) (32-bit)";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
