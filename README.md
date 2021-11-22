@@ -29,9 +29,17 @@ Now have just 2
 * HTTP Proxy Attacking.
 * Bigspammer Proxy!
 # Q&A
-* why not having to select proctool?
+* Q: Why not having to having select proctool?
 * A: We using DNS that are support with TCP and UDP!
-* Ask more in Issuses!
+* Q: i trying attack but server not down what happends?
+* A: Look a reason this!
+* 1. Making to sure you have a good pc or server spec.
+* 2. Some version maybe having problem try downgrade a version! if work please contect in issues bar to fix it!
+* 3. ISP maybe block many packets from you pc
+* 4. Really in task manager maybe show 500 mbps - 1Gbps but server will get 100-300 MBPS From limited Package you internet ISP!
+* 5. If ISP you is good maybe you Wifi are problem! 2.4GHz is bad for it (Recommends to using 5Ghz or lan!)
+* Q: how i did ask a issues
+* A: click a issues bar and report we!
 # History about Destory Server of Version 3.
 * MCTHAM on 12:19 PM (Time in Thailand) play.mctham.xyz having networking issuses after get attacked (Methods big spammer) (Reason: Server is cannot read bigger chinese language.)
 ![mctham](https://media.discordapp.net/attachments/827390907502034995/911856265989337098/unknown.png?width=772&height=434)
