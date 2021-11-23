@@ -18,12 +18,15 @@ So this will very illgeal to attack other server if you not are owner or have an
 FuseDDoS version 3 will send CHINA lang to overheat any server!
 ![HOW THAT WORK?](https://media.discordapp.net/attachments/879939876181647380/911838523114528858/howwork.png?width=867&height=434)
 # Patch and News!
+* 22/11/2021 - FuseDDoS Version 3 (Beta v1.1) *Read More in Release.*
 * 21/11/2021 - FuseDDoS Version 3 (Beta v1.0) *Read More in Release.*
 * 20/11/2021 - FuseDDoS Version 3 (Beta v0.7) *Read More in Release.*
 # Methods
-Now have just 2
+Now have just 4
 * Big Spammer
 * Flooded
+* Binary (New!)
+* Custom Message (Custom Users)
 # What in new Methods in soon?
 * HTTP Flooding
 * HTTP Proxy Attacking.
