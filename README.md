@@ -31,6 +31,8 @@ Now have just 4
 * HTTP Flooding
 * HTTP Proxy Attacking.
 * Bigspammer Proxy!
+# Tips!
+* 1 window = 10-20K req still try 2-3 window for 40-60K req
 # Q&A
 * Q: Why not having to having select proctool?
 * A: We using DNS that are support with TCP and UDP!
