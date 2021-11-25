@@ -58,11 +58,11 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(113, 60);
+            this.label2.Location = new System.Drawing.Point(119, 60);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(67, 13);
+            this.label2.Size = new System.Drawing.Size(61, 13);
             this.label2.TabIndex = 1;
-            this.label2.Text = "IP / Domain:";
+            this.label2.Text = "IP Address:";
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // textBox1
@@ -125,9 +125,9 @@
             this.label7.AutoSize = true;
             this.label7.Location = new System.Drawing.Point(3, 284);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(53, 13);
+            this.label7.Size = new System.Drawing.Size(70, 13);
             this.label7.TabIndex = 18;
-            this.label7.Text = "Beta v1.1";
+            this.label7.Text = "Release v1.2";
             this.label7.Click += new System.EventHandler(this.label7_Click_1);
             // 
             // button3
@@ -197,7 +197,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
-            this.Text = "FuseDDoS Version 3 (Beta v1.1)";
+            this.Text = "FuseDDoS Version 3 (Release v1.2)";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
