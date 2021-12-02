@@ -3,7 +3,7 @@ FuseDDoS Version 3 with C#! and Best of Testing Flood Layer 4!
 # What you need?
 * NET FRAMEWORK 4.6.1 (trying to ask in issues for downgrade net)
 # Overview
-![Over1](https://raw.githubusercontent.com/PC1266/FuseDDoS-Version3/main/Capture12.PNG)
+![Over1] (https://raw.githubusercontent.com/PC1266/FuseDDoS-Version3/main/rererererere.PNG)
 # About with Version 2 and 1
 FuseDDoS Version 2 and 1 Created for Edu and testing server
 but Version 2 and 1 is not good sending and LOW rate to sending!
@@ -13,21 +13,23 @@ So version 2 and 1 is using batch to creating,
 # Open Source
 FuseDDoS Version 3 are open source and free edit~
 # Terms of Services
-So this will very illgeal to attack other server if you not are owner or have any permission,
+So this will very illgeal to attack other server if you not are owner or have any permission, or read Q&A 
 # How to working?
-FuseDDoS version 3 will send CHINA lang to overheat any server!
+FuseDDoS version 3 will send unicode to overheat any server!
 ![HOW THAT WORK?](https://media.discordapp.net/attachments/879939876181647380/911838523114528858/howwork.png?width=867&height=434)
 # Patch and News!
+Format: dd/mm/yyyy
+* 2/12/2021 - FuseDDoS Version 3 (Release v1.3.0) *Read more in Release.*
 * 25/11/2021 - FuseDDoS Version 3 (Release v1.2) *Read more in Release.*
 * 22/11/2021 - FuseDDoS Version 3 (Beta v1.1) *Read More in Release.*
 * 21/11/2021 - FuseDDoS Version 3 (Beta v1.0) *Read More in Release.*
 * 20/11/2021 - FuseDDoS Version 3 (Beta v0.7) *Read More in Release.*
 # Methods
 Now have just 4
-* Big Spammer
-* Flooded
-* Binary (New!)
-* Custom Message (Custom Users)
+* Flooding UDP
+* Slow-Rate-Attack UDP
+* SYN Flooding TCP
+* HTTP flooding HTTP [not done]
 # What in new Methods in soon?
 * HTTP Flooding
 * HTTP Proxy Attacking.
