@@ -8,10 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DDoSAttack_For_Windows_NET_4._6._1.Properties
+
+namespace FuseDDoS_Version_3.Properties
 {
-
-
     /// <summary>
     ///   A strongly-typed resource class, for looking up localized strings, etc.
     /// </summary>
@@ -44,7 +43,7 @@ namespace DDoSAttack_For_Windows_NET_4._6._1.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("DDoSAttack_For_Windows_NET_4._6._1.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("FuseDDoS_Version_3.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DDoSAttack For Windows NET 4.6.1")]
+[assembly: AssemblyTitle("FuseDDoS Version 3")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("DDoSAttack For Windows NET 4.6.1")]
+[assembly: AssemblyProduct("FuseDDoS Version 3")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("07f52737-06d9-4e45-982f-03773fc6f543")]
+[assembly: Guid("cb69b149-ffef-41a9-b40f-c44a916e56b4")]
 
 // Version information for an assembly consists of the following four values:
 //
