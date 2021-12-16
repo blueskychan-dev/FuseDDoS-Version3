@@ -1,5 +1,6 @@
-# *** Project Status: End of Line (Developer escape going linux user) ***
-No worry Alt project is going on!
+# *** Project Status: End of Life (Developer escape going linux user) ***
+* No worry Alt project is going on!
+* If you need Edit or back to supported copy code or fork.
 # FuseDDoS-Version-3
 FuseDDoS Version 3 with C#! and Best of Testing Flood Layer 4!
 # What you need?
