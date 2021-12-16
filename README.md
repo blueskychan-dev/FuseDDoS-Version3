@@ -1,4 +1,4 @@
-# *** Project Status: End of Life (Developer escape going linux user) ***
+# *** Project Status: End of Life (Developer escape going to linux user) ***
 * No worry Alt project is going on!
 * If you need Edit or back to supported copy code or fork.
 # FuseDDoS-Version-3
