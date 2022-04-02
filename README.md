@@ -1,7 +1,7 @@
-# *** Project Status: End of Life (Developer escape going to using linux) ***
-What i can do?
-* No worry Alt project is going on!
-* If you need Edit or back to supported copy code or fork.
+# Update About Project [2 April 2022]
+Hi everyone FuseDDoS project status is cancel and out of dated but we have alternative project are better than this project
+* Link: [DDoSPacket for Windows](https://github.com/fusedevgithub/DDoSPacket-For-Windows/)
+* Feature: Change type of attack data, mutilthread, 2 Platform, ICMP Support you can try!
 # FuseDDoS-Version-3
 FuseDDoS Version 3 with C#! and Best of Testing Flood Layer 4!
 # What you need?
